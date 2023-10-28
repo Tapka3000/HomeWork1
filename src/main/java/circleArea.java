@@ -1,8 +1,8 @@
-public class Square_Circle {
+public class circleArea {
     public static void main(String[] args) {
         int r = 3;
 
-        double a = (double) (2 * Math.PI * r);
+        double a = 2 * Math.PI * r;
         System.out.println("Площадь круг = " + a);
     }
 }

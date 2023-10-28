@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28e79cfc-42c8-466a-a1f1-ec0b80f0a776" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Square_Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Square_Kvadrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Square_treugolnik.java" afterDir="false" />
+    <list default="true" id="28e79cfc-42c8-466a-a1f1-ec0b80f0a776" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Square_Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/circleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Square_Kvadrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/squareArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Square_treugolnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/triangleArea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
     </list>
@@ -39,25 +37,25 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Games/QA_learn/QA_learn/src/main/java/org/example/Square_Circle.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Games/QA_learn/QA_learn/src/main/java/org/example/Square_Circle.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Square_Kvadrat">
-    <configuration name="Square_Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Square_Circle" />
+  <component name="RunManager" selected="Application.circleArea">
+    <configuration name="circleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="circleArea" />
       <module name="HomeWork1" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Square_Kvadrat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Square_Kvadrat" />
+    <configuration name="squareArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="squareArea" />
       <module name="HomeWork1" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Square_treugolnik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Square_treugolnik" />
+    <configuration name="triangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="triangleArea" />
       <module name="HomeWork1" />
       <extension name="coverage">
         <pattern>
@@ -97,9 +95,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Square_Kvadrat" />
-        <item itemvalue="Application.Square_Circle" />
-        <item itemvalue="Application.Square_treugolnik" />
+        <item itemvalue="Application.circleArea" />
+        <item itemvalue="Application.squareArea" />
+        <item itemvalue="Application.triangleArea" />
       </list>
     </recent_temporary>
   </component>
@@ -112,6 +110,14 @@
       <option name="presentableId" value="Default" />
       <updated>1698166859213</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1698248014354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698248014354</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,5 +142,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>

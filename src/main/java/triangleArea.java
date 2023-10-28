@@ -1,4 +1,4 @@
-public class Square_treugolnik {
+public class triangleArea {
     public static void main(String[] args) {
         int a = 5; //Основание
         int b = 15; // Высота
